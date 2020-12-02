@@ -1,5 +1,3 @@
-import re
-
 dirty = """2-7 p: pbhhzpmppb
 3-6 h: jkhnhwhx
 5-6 x: xxxxxmxf
