@@ -1,4 +1,4 @@
-dirty = """""" // Puzzle input from advent of code
+dirty = """""" # Puzzle input from advent of code
 
 clean = dirty.splitlines()
 valid = 0
